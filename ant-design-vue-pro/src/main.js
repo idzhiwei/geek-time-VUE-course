@@ -6,6 +6,7 @@ import store from "./store";
 import "ant-design-vue/dist/antd.less";
 
 Vue.config.productionTip = false;
+
 Vue.use(Antd)
 
 new Vue({
