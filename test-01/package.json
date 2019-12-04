@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jamccc/geek-time-VUE-course/issues"
   },
-  "homepage": "https://github.com/jamccc/geek-time-VUE-course#readme"
+  "homepage": "https://github.com/jamccc/geek-time-VUE-course#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
